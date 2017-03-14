@@ -1,4 +1,4 @@
-import { FETCH_USERS } from 'types';
+import { FETCH_USERS } from './types';
 
 export function fetchUsers() {
     return {
